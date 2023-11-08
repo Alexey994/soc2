@@ -1,0 +1,17 @@
+.nav {
+    grid-area: n;
+    background-color: #0c0d0c;
+    padding: 10px;
+    border: 1px solid red;
+   
+}
+
+
+.item a {
+    color: greenyellow;
+    text-decoration: none;
+}
+
+.link {
+    border: 1px solid red;
+}
