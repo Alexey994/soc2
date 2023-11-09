@@ -2,7 +2,7 @@
   "name": "soc",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://alexey994.github.io/soc",
+  "homepage": "https://alexey994.github.io/soc/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",
@@ -49,6 +49,6 @@
   },
   "devDependencies": {
     "gh-pages": "^6.0.0",
-     "jest": "^27.5.1"
+    "jest": "^27.5.1"
   }
 }
